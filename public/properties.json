@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Family Home",
+      "image": "https://i.ibb.co/Zm4vv7P/4.png",
+      "segment_name": "Single-Family Homes",
+      "description": "A beautiful and spacious modern family home with all the amenities. The property features an open-plan living area with large windows that bring in natural light, creating a bright and welcoming atmosphere. The large kitchen is equipped with stainless steel appliances, a center island, and ample cabinet space. The master bedroom includes an ensuite bathroom with a soaking tub and a walk-in shower. Additional features include a home office, a media room, and a two-car garage. The backyard is an oasis with a swimming pool, a covered patio, and a landscaped garden, perfect for family gatherings and entertaining guests.",
+      "price": 350000,
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Los Angeles, CA",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Garage"]
+    },
+    {
+      "id": 2,
+      "estate_title": "Luxury Apartment",
+      "image": "https://i.ibb.co/hf5K8VX/5.png",
+      "segment_name": "Luxury Homes",
+      "description": "A luxurious apartment in the heart of the city. This high-rise apartment offers stunning views of the skyline from every room. The modern kitchen features high-end finishes, including quartz countertops, stainless steel appliances, and custom cabinetry. The spacious living area is perfect for entertaining, with floor-to-ceiling windows and access to a private balcony. The master bedroom includes a walk-in closet and a luxurious bathroom with a soaking tub and a separate glass-enclosed shower. The building provides residents with top-notch amenities such as a state-of-the-art fitness center, an indoor swimming pool, a resident's lounge, and 24/7 concierge service.",
+      "price": 150000,
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "New York, NY",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Gym"]
+    },
+    {
+      "id": 3,
+      "estate_title": "Cozy Cottage",
+      "image": "https://i.ibb.co/WnF6fMt/6.png",
+      "segment_name": "Cottage",
+      "description": "A charming and cozy cottage perfect for a small family. This cottage is located in a peaceful neighborhood, providing a quiet and serene environment. The warm living room features a fireplace, built-in bookshelves, and hardwood floors. The country-style kitchen is equipped with modern appliances and has a dining area that overlooks the garden. The master bedroom offers comfort and privacy, with a spacious closet and an ensuite bathroom. The garden is beautifully landscaped with a variety of flowers and trees, providing a perfect space for outdoor relaxation. Additional features include a sunroom, a detached garage, and a basement for extra storage.",
+      "price": 200000,
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Austin, TX",
+      "facilities": ["Living room", "Kitchen", "Garden"]
+    },
+    {
+      "id": 4,
+      "estate_title": "Suburban House",
+      "image": "https://i.ibb.co/PtMKGqH/7.png",
+      "segment_name": "Luxury Homes",
+      "description": "A spacious suburban house with a large backyard. This home features an open floor plan with a large living room that flows seamlessly into the dining area and kitchen. The gourmet kitchen is equipped with granite countertops, stainless steel appliances, and a breakfast bar. The master suite includes a walk-in closet and a luxurious bathroom with a soaking tub and a separate shower. The additional bedrooms are spacious and have ample closet space. The backyard is an entertainer's dream, with a swimming pool, a deck, and a landscaped garden. The property also includes a home theater, a three-car garage, and a laundry room.",
+      "price": 400000,
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Seattle, WA",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Backyard"]
+    },
+    {
+      "id": 5,
+      "estate_title": "Penthouse Suite",
+      "image": "https://i.ibb.co/1ZxVjz0/8.png",
+      "segment_name": "Penthouse",
+      "description": "A luxurious penthouse suite with stunning city views. This penthouse features a spacious living area with floor-to-ceiling windows that offer panoramic views of the city skyline. The modern kitchen is equipped with top-of-the-line appliances, quartz countertops, and a large island with seating. The master bedroom includes a walk-in closet and an ensuite bathroom with a soaking tub, a glass-enclosed shower, and dual vanities. The large terrace is perfect for outdoor dining and entertaining, with plenty of space for seating and a built-in grill. The building offers amenities such as a rooftop pool, a state-of-the-art gym, private parking, and 24/7 security.",
+      "price": 4500,
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "Miami, FL",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Gym", "Balcony"]
+    },
+    {
+      "id": 6,
+      "estate_title": "Beachfront Villa",
+      "image": "https://i.ibb.co/xY1cRQD/9.png",
+      "segment_name": "Villa",
+      "description": "A gorgeous villa located right on the beachfront. This villa features an open-plan living and dining area with panoramic ocean views, a gourmet kitchen with state-of-the-art appliances, and a master suite with a private balcony. The outdoor area includes a swimming pool, a hot tub, and direct access to the beach. The villa also has a guest house with two bedrooms, perfect for hosting friends or family. Other features include a home theater, a gym, and a wine cellar. The beautifully landscaped grounds provide a serene setting for relaxation and outdoor activities.",
+      "price": 600000,
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Malibu, CA",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Beach access"]
+    },
+    {
+      "id": 7,
+      "estate_title": "Urban Studio",
+      "image": "https://i.ibb.co/JBnQYFF/10.png",
+      "segment_name": "Luxury Homes",
+      "description": "A compact and modern studio apartment in the city. This studio features an open living space with a sleek kitchen equipped with stainless steel appliances and quartz countertops. The sleeping area includes a built-in Murphy bed that maximizes space and offers built-in storage solutions. The bathroom has contemporary fixtures and a walk-in shower. Large windows provide plenty of natural light and city views. The building offers amenities such as a fitness center, a rooftop terrace, and a communal lounge area. Ideal for a single professional or a couple seeking an urban lifestyle.",
+      "price": 1200,
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "Chicago, IL",
+      "facilities": ["Living room", "Kitchen"]
+    },
+    {
+      "id": 8,
+      "estate_title": "Country Estate",
+      "image": "https://i.ibb.co/jH3D2T1/11.png",
+      "segment_name": "Condominiums",
+      "description": "A large country estate with beautiful landscapes. This estate features a grand living room with a fireplace, a chef's kitchen with state-of-the-art appliances and a large island, and a formal dining room. The master suite includes a luxurious bathroom with a soaking tub, a rain shower, and a walk-in closet. The property has multiple guest bedrooms, each with an ensuite bathroom. The expansive grounds include a swimming pool, a tennis court, a garden with a gazebo, and a private pond. Additional amenities include a home theater, a gym, a wine cellar, and a three-car garage.",
+      "price": 700000,
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Nashville, TN",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Garden", "Garage"]
+    },
+    {
+      "id": 9,
+      "estate_title": "Elegant Townhouse",
+      "image": "https://i.ibb.co/xY1cRQD/9.png",
+      "segment_name": "Townhouses",
+      "description": "An elegant townhouse in a quiet neighborhood. This townhouse features a spacious living room with hardwood floors and a fireplace, a modern kitchen with stainless steel appliances and granite countertops, and a formal dining room. The master suite includes a walk-in closet and an ensuite bathroom with a double vanity, a soaking tub, and a separate shower. Additional bedrooms are spacious with ample closet space. The property also includes a finished basement that can be used as a family room or home office. Outside, there is a private garage and a small garden with a patio for outdoor dining and relaxation.",
+      "price": 300000,
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Boston, MA",
+      "facilities": ["Living room", "Kitchen", "Garage"]
+    }
+  ]
+  
